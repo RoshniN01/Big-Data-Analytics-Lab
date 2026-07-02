@@ -1,0 +1,1 @@
+MapReduce is a programming model for big data processing.
